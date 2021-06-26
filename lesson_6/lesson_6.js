@@ -30,10 +30,10 @@ $("#button_create").click(function(){
 
 getListOfTasks('https://jsonplaceholder.typicode.com/todos/')
 
-$(document).ready(function() {AddTask("hello to you")})
-$(document).ready(function() {AddTask("order now")})
-$(document).ready(function() {AddTask("EAT LUNCH")})
-$(document).ready(function() {AddTask("DDD HHH")})
+$(document).ready(function() {AddTask("Do hw lesson 6")})
+$(document).ready(function() {AddTask("Order food")})
+$(document).ready(function() {AddTask("Eat lunch with bob")})
+$(document).ready(function() {AddTask("Talk with Luchia")})
 
 
 function listenForEventsOn(tagName)
